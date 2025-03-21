@@ -70,7 +70,7 @@ FileXpress is a real-time file transfer system integrated with a chat feature. I
   - Pinia
   - Vue Toastificatio
 ## Screenshots and Assets
-[Screenshot 1](assets/Test.mp4)
+[Testing Video](assets/Test.mp4)
 ![Screenshot 2](assets/Captura1.png)
 ![Screenshot 3](assets/Captura2.png)
 ![Screenshot 4](assets/Captura3.png)
