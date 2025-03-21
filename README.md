@@ -13,6 +13,12 @@ FileXpress is a real-time file transfer system integrated with a chat feature. I
 - State management with Pinia
 - Notifications with Vue Toastification
 
+  
+
+https://github.com/user-attachments/assets/41c88a36-9f99-49f2-a3c6-c56cfa289d37
+
+
+
 ## Installation
 
 ### Backend
