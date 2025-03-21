@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+$background-color: #101010;
+$basic-text-color: #dbdcdc;
+$red: #ff4646;
+$blue: #2970ff;
+$green: #40cd64;
+$yellow: #f3cc30;
+$orange: #e86114;
+$light-gray: #c4c4c5;
+
+html, body, #__nuxt {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: $background-color;
+    color: $basic-text-color;
+    font-family: "Inter";
+}
